@@ -1,4 +1,4 @@
-�iNLP 12�饴�d?�j?�{?�ئX��:
+NLP打卡营：基于深度学习的自然语言处理:
 
 https://aistudio.baidu.com/aistudio/projectdetail/4320832?forkThirdPart=1
 
